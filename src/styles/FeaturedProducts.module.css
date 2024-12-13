@@ -1,0 +1,6 @@
+/* src/styles/FeaturedProducts.module.css */
+.featured-products {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
